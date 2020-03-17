@@ -1,6 +1,6 @@
 # vue-slicksort-demo
 
-## 这是一个 vue-slicksort 拖拽排序库的demo项目，你可以在这里尝试  vue-slicksort 的各种功能
+### 这是一个 vue-slicksort 拖拽排序库的demo项目，你可以在这里尝试  vue-slicksort 的各种功能，执行 `npm run serve`。
 
 ## Project setup
 ```
